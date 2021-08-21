@@ -16,10 +16,12 @@ header h1 {
   font-family: Calibri, sans-serif;
   color: #ddd5ca;
 }
+
 /* Make your p tag a different color and italic */
 p {
   font-style: italic;
   color: #9fa0a2;
+  text-align: center;
 }
 /* Put a border around your image */
 img {
